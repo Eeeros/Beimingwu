@@ -18,7 +18,7 @@
     <a href="LICENSE">
         <img alt="LICENSE" src="https://img.shields.io/pypi/l/learnware?color=blue">
     </a>
-    <a href="https://bmwu.cloud/">
+    <a href="https://bmwu.cloud/" target="_blank">
         <img alt="Website" src="https://img.shields.io/website/http/docs.bmwu.cloud?down_color=red&down_message=offline&up_message=online">
     </a>
     <a href="https://pypi.org/project/learnware/#history">
